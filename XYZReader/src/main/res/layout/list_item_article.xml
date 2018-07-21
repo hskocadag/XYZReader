@@ -23,7 +23,6 @@
             android:scaleType="centerCrop"
             android:paddingBottom="8dp"
             android:adjustViewBounds="true"
-            android:transitionName="@string/transition_photo"
             android:background="@color/photo_placeholder" />
 
         <TextView
